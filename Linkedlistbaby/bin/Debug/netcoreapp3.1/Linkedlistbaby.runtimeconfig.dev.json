@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Tesla Laptops\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Tesla Laptops\\.nuget\\packages"
+    ]
+  }
+}

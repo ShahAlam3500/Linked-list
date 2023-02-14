@@ -1,0 +1,13 @@
+C:\Users\Tesla Laptops\source\repos\Linkedlistbaby\Linkedlistbaby\obj\Debug\netcoreapp3.1\Linkedlistbaby.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tesla Laptops\source\repos\Linkedlistbaby\Linkedlistbaby\obj\Debug\netcoreapp3.1\Linkedlistbaby.AssemblyInfoInputs.cache
+C:\Users\Tesla Laptops\source\repos\Linkedlistbaby\Linkedlistbaby\obj\Debug\netcoreapp3.1\Linkedlistbaby.AssemblyInfo.cs
+C:\Users\Tesla Laptops\source\repos\Linkedlistbaby\Linkedlistbaby\obj\Debug\netcoreapp3.1\Linkedlistbaby.csproj.CoreCompileInputs.cache
+C:\Users\Tesla Laptops\source\repos\Linkedlistbaby\Linkedlistbaby\bin\Debug\netcoreapp3.1\Linkedlistbaby.exe
+C:\Users\Tesla Laptops\source\repos\Linkedlistbaby\Linkedlistbaby\bin\Debug\netcoreapp3.1\Linkedlistbaby.deps.json
+C:\Users\Tesla Laptops\source\repos\Linkedlistbaby\Linkedlistbaby\bin\Debug\netcoreapp3.1\Linkedlistbaby.runtimeconfig.json
+C:\Users\Tesla Laptops\source\repos\Linkedlistbaby\Linkedlistbaby\bin\Debug\netcoreapp3.1\Linkedlistbaby.runtimeconfig.dev.json
+C:\Users\Tesla Laptops\source\repos\Linkedlistbaby\Linkedlistbaby\bin\Debug\netcoreapp3.1\Linkedlistbaby.dll
+C:\Users\Tesla Laptops\source\repos\Linkedlistbaby\Linkedlistbaby\bin\Debug\netcoreapp3.1\Linkedlistbaby.pdb
+C:\Users\Tesla Laptops\source\repos\Linkedlistbaby\Linkedlistbaby\obj\Debug\netcoreapp3.1\Linkedlistbaby.dll
+C:\Users\Tesla Laptops\source\repos\Linkedlistbaby\Linkedlistbaby\obj\Debug\netcoreapp3.1\Linkedlistbaby.pdb
+C:\Users\Tesla Laptops\source\repos\Linkedlistbaby\Linkedlistbaby\obj\Debug\netcoreapp3.1\Linkedlistbaby.genruntimeconfig.cache
